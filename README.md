@@ -12,4 +12,4 @@ This repository demonstrates a production-grade, modular Infrastructure as Code 
 *   **Cloud Architecture:** AWS Workspaces, VPC, Enterprise Cloud Infrastructure
 *   **Automation Standard:** Designed for programmatic environments to reduce operational overhead.
 
-*Maintained by a Certified DevOps Engineer Expert (AZ-400) during independent SRE practice.*
+*Maintained by a GenAI DevOps Engineer during independent SRE practice.*
